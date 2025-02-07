@@ -12,5 +12,4 @@ building a ML model based on the infamous titanicDataset
 - #### Tackle nan/null values
 - fill the embarked column with the most frequect value in the column
 - might find some other relation with pclass feature to fill null values more efficiently
-
-
+- seperate cabin number and cabin letter 
