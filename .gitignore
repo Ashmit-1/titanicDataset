@@ -1,3 +1,4 @@
 *.zip
 .venv
+temp.ipynb
 gender_submission.csv
